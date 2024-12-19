@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Content"
+		},
+		{
+			"path": "DerivedDataCache"
+		},
+		{
+			"path": "Intermediate"
+		},
+		{
+			"path": "Saved"
+		},
+		{
+			"path": "Releases"
+		},
+		{
+			"path": "Binaries"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"Content": true,
+			"DerivedDataCache": true,
+			"Intermediate": true,
+			"Saved": true,
+			"Releases": true,
+			"Binaries": true,
+		},
+	}
+}
